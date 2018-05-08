@@ -336,6 +336,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 
 ## Swift
 
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A library and command-line formatting tool for reformatting Swift code
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions
 * [Tailor](https://github.com/sleekbyte/tailor) - A static analysis and lint tool for source code written in Apple's Swift programming language.
 
@@ -395,8 +396,9 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 ## Binaries
 
 * [BinSkim](https://github.com/Microsoft/binskim) - A binary static analysis tool that provides security and correctness results for Windows portable executables.
-* [Manalyze](https://github.com/JusticeRage/Manalyze) - A static analyzer, which checks portable executables for malicious content.
 * [Jakstab](https://github.com/jkinder/jakstab) - Jakstab is an Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
+* [Manalyze](https://github.com/JusticeRage/Manalyze) - A static analyzer, which checks portable executables for malicious content.
+* [Twiggy](https://github.com/rustwasm/twiggy) - Analyzes a binary's call graph to profile code size. The goal is to slim down binaries.
 
 
 ## Containers
